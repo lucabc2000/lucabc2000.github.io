@@ -1,0 +1,4 @@
+#AdMob
+google.com, pub-3669336532662186, DIRECT, f08c47fec0942fa0
+#AdMob Test ads
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
